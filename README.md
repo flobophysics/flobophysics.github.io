@@ -1,4 +1,4 @@
 # flobophysics.github.io
 
 
-[Go-Lehrmittel](./go-lehrmittel/README.md)
+[Deutsch](start_de.md)
