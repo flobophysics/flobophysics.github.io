@@ -1,6 +1,9 @@
-## Go-Lehrmittel
+# Go-Lehrmittel
 
-### Go Kifu
+## Go Kifu
 
 Deutsch:
 [Go-Kifu](meingokifu)
+
+English:
+[Go Kifu](mygokifu)

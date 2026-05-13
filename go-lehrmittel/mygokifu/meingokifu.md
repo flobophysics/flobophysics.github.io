@@ -1,8 +1,8 @@
-## Go-Lehrmittel
+# Go-Lehrmittel
 
-### Go-Kifu
+## Go-Kifu
 
-#### Mein Go-Kifu (deutsch)
+### Mein Go-Kifu (deutsch)
 
 Zum Herunterladen:
 
@@ -12,3 +12,5 @@ Zum Herunterladen:
 
 *Mein Go-Kifu* © 2019 by flobophysics is licensed under CC BY 4.0.\
 To view a copy of this license, visit <https://creativecommons.org/licenses/by/4.0/>
+
+*Mein Go-Kifu* is available in [other languages](start).
