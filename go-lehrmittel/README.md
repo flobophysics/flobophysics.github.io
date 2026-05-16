@@ -1,4 +1,5 @@
+# Go-Lehrmittel
 
+[Deutsch](start_de)
 
-
-[Go-Lehrmittel (deutsch)](start_de.md)
+[English](start_en)
