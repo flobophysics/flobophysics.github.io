@@ -5,6 +5,9 @@
    tags: [LaTeX, Physik-Lehrmittel]
 ---
 
+![das griechische Alphabet, Buchstaben alpha bis zeta](/assets/images/das-griechische-alphabet.png)
+
+
 Das griechische Alphabet mit Schriftlinien zum Üben steht zum Herunterladen bereit ([PDF](https://flobophysics.github.io/physik-lehrmittel/PDFs/das-griechische-Alphabet.pdf)). Veröffentlicht wird hier der Quellcode, wenn man etwas ändern möchte.
 
 ``` latex {% raw %}
