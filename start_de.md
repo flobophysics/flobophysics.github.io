@@ -7,4 +7,4 @@
 
 [Go-Lehrmittel](./go-lehrmittel/start_de)
 
-Physik
+[Physik](./physik-lehrmittel/start_de)
