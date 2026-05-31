@@ -3,6 +3,7 @@
      title: Ein Blog auf Github.io
      excerpt: "Einen Blog auf github.io zu bringen ist in der Tat so einfach wie überall beworben und geht innerhalb von Minuten. Wir zeigen hier die minimalste Version, für die man kein theme, keine fork und keinerlei Installation benötigt."
      tags: [deutsch, github]
+     category: blog
 ---
 
 Einen Blog auf github.io zu bringen ist in der Tat so einfach wie überall beworben und geht innerhalb von Minuten. Wir zeigen hier die *minimalste* Version, für die man kein *theme*, keine *fork* und keinerlei Installation benötigt.

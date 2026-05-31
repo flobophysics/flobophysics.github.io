@@ -2,7 +2,8 @@
    layout: post
    title: "Quellcode für das griechische Alphabet mit LaTeX"
    excerpt: "Das griechische Alphabet mit Schriftlinien zum Üben steht zum Herunterladen bereit. Veröffentlicht ist hier der Quellcode, wenn man etwas ändern möchte."
-   tags: [LaTeX, Physik-Lehrmittel]
+   tags: [deutsch, LaTeX, physics, maths]
+   category: blog
 ---
 
 ![das griechische Alphabet, Buchstaben alpha bis zeta](/assets/images/das-griechische-alphabet.png)

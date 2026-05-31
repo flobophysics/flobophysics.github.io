@@ -3,6 +3,7 @@
    title: "Blog-Beiträge mit Mathematiksatz durch MathJax"
    excerpt: "Hier testen wir die Anzeige von Mathematik-Satz im Blog mit MathJax. MathJax erlaubt die Eingabe im LaTeX-Format direkt im Quellcode."
    tags: [deutsch, github, maths]
+   category: blog
 ---
 
 <!-- Lade MathJax um Formeln darzustellen -->
