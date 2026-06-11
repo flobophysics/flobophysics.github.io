@@ -3,6 +3,8 @@ Website:
 [flobophysics.github.io](https://flobophysics.github.io)
 
 
-[Deutsch](start_de)
+Seite auf
+[deutsch](https://flobophysics.github.io/start_de)
 
-[English](start_en)
+Visit the site in 
+[English](https://flobophysics.github.io/start_en)
