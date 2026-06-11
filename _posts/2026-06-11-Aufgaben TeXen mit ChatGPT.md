@@ -31,8 +31,7 @@ Verwende die documentclass `exam` und für die Teilaufgaben verwende nicht `\par
     \begin{subparts}
       \subpart erste Teilaufgabe
       \subpart zweite Teilaufgabe
-    \end{subparts}
-{% endraw %}
+    \end{subparts}{% endraw %}
 ```
 
 Ich gebe dir hier noch ein Beispiel für die Formatierung einer Frage im Stil der `exam`-Dokumentenklasse. Das Beispiel hat inhaltlich nichts mit dem zu tun, was du jetzt für mich machst:
