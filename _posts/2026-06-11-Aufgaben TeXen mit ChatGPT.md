@@ -45,8 +45,7 @@ Ich gebe dir hier noch ein Beispiel für die Formatierung einer Frage im Stil de
     \subpart höchstens drei Wappen    
     \end{subparts}
     % end question
-    \omitsolution
-{% endraw %}
+    \omitsolution{% endraw %}
 ```
 
 Ich verwende `\omitsolution` um anzuzeigen, dass es noch keine getippte Lösung zu dieser Aufgabe gibt. Wenn du eine Lösung zu der Aufgabe ausgibst, dann soll sie in einer `solution`-Umgebung sein, also folgendes Format haben:
@@ -57,8 +56,7 @@ Ich verwende `\omitsolution` um anzuzeigen, dass es noch keine getippte Lösung 
     \begin{subparts}
       \subpart ...
     \end{subparts}
-    \end{solution}
-{% endraw %}
+    \end{solution}{% endraw %}
 ```
 
 Die Teilaufgaben (a), (b) usw. werden aus den `\subpart`-Befehlen erstellt.
@@ -70,8 +68,7 @@ Der Befehl `\omitsolution` entfällt bei der Ausgabe einer Lösung (im Beispiel 
 Verwende das Paket `siunitx` durch den Aufruf von:
 
 ``` latex {% raw %}
-    \usepackage{siunitx}
-{% endraw %}
+    \usepackage{siunitx}{% endraw %}
 ```
 
 mit den folgenden Spracheinstellungen:
@@ -85,8 +82,7 @@ mit den folgenden Spracheinstellungen:
       list-separator    = {; },
       range-phrase      = { bis }
     }% Ende
-    \DeclareSIUnit\curren{\text{\texteuro}}% Euro als Währung verwenden.
-{% endraw %}
+    \DeclareSIUnit\curren{\text{\texteuro}}% Euro als Währung verwenden.{% endraw %}
 ```
 
 Hier noch einige Beispiele zur Verwendung von `siunitx`:
@@ -107,8 +103,7 @@ Für das Setzen von Mathematik in einer eigenen Zeile verwende nicht `\[ \]` ode
 ``` latex {% raw %}
     \begin{equation*}
       ...
-    \end{equation*}
-{% endraw %}
+    \end{equation*}{% endraw %}
 ```
 
 Das war wichtig, ich wiederhole es deshalb: Setze Mathematik-Zeilen nicht als `\[ \]` oder `$$`, sondern verwende stattdessen die `equation`-Umgebung. Die `equation`-Umgebung soll auch nicht von Leerzeilen von dem restlichen Text getrennt werden: Setze zwischen Text und `\begin{equation}` keine Leerzeile.
@@ -137,8 +132,7 @@ All die beschriebenen Hinweise sind in der Preamble meines Dokumentes bereits un
     % Preamble mit den Paketen und Definitionen 
     \begin{document}
     \input{aufgabe.tex}
-    \end{document}
-{% endraw %}
+    \end{document}{% endraw %}
 ```
 
 Du sollst also nur den LaTeX-Code erzeugen, den ich in der Datei `aufgabe.tex` abspeichere.
