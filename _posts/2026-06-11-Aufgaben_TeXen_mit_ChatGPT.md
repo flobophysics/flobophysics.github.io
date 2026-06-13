@@ -10,6 +10,10 @@
 
 Stand 2026 können die Chat-Bots die Markup-Sprache LaTeX bereits sehr gut. Insbesondere produzieren sie verlässlich Code, der ohne Probleme das Kompilieren übersteht. Mit den folgenden Anweisungen arbeite ich seit einiger Zeit problemlos und -- was das Abschreiben von Text und Übertragen nach TeX betrifft -- sehr effizient. 
 
+(Wenn man die Anweisungen verwenden wollte:
+Die Quelldatei dieser Datei für die Eingabe bei ChatGPT 
+[gibt es hier]({{ site.github.repository_url }}/blob/main/{{ page.path }}), mit weiteren Klicks auf "Code" und "raw".)
+
 ## Eingabe an ChatGPT
 
 Hilf mir die folgende Aufgabe bzw. die Aufgabe in der Abbildung anbei in LaTeX-Code zu übertragen.
