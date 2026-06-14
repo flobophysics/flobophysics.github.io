@@ -7,7 +7,7 @@ The image shows the Greek letter β, both the uppercase and the lowercase form. 
 The following [PDF](/physik-lehrmittel/PDFs/Greek-Alphabet.pdf) contains the entire alphabet with these lines.
 
 If you are interested in the LaTeX source code and want to modify if, it is made available 
-[here]({% post_url 2026-05-30-Quellcode-für-das-griechische-Alphabet-mit-LaTeX %}).
+[here]({% post_url 2026-05-30-Quellcode-für-das-griechische-Alphabet-mit-LaTeX %}) (in German).
 
 ------------------------------------------------------------------------
 
