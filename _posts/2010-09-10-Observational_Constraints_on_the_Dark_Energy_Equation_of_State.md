@@ -39,3 +39,4 @@ We have demonstrated how the power spectrum of matter inhomogeneities can be use
 ----
 
 The full text of my thesis is [available here](https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/theoretical-physics/msc/dissertations/2010/Florian-Borchers-Dissertation.pdf).
+The [slides of the corresponding presentation]({{ GITHUB_REPOSITORY }}/assets/PDFs/10s10b21ekb25n.pdf) are also available. 
