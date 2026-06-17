@@ -1,6 +1,6 @@
 ## Das griechische Alphabet mit Schriftlinien
 
-![](/assets/images/das-griechische-alphabet.png)
+![](/assets/images/26305x30ghiy5k.png)
 
 Das Bild zeigt den griechischen Buchstaben β, sowohl den Groß- als auch den Kleinbuchstaben. Eingetragen ist der Buchstabe zwischen die Schriftlinien (Grundlinie, x-Linie usw.), wie sie aus der Grundschule bekannt sind.
 

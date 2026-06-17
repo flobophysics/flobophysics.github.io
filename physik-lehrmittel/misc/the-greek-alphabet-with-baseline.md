@@ -1,6 +1,6 @@
 ## The Greek Alphabet with Handwriting Baseline
 
-![](/assets/images/das-griechische-alphabet.png)
+![](/assets/images/26305x30ghiy5k.png)
 
 The image shows the Greek letter β, both the uppercase and the lowercase form. The letter is placed between handwriting lines (baseline, mean line, cap line, etc.), as commonly used in primary schools.
 
