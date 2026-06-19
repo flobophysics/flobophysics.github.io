@@ -8,3 +8,5 @@
 [Go-Lehrmittel](./go-lehrmittel/start_de)
 
 [Physik](./physik-lehrmittel/start_de)
+
+[Spiele](./spiele/start_de)
