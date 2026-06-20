@@ -15,3 +15,5 @@
 ## Studium
 
 - *[Observational Constraints on the Dark Energy Equation of State]({% post_url 2010-09-10-Observational_Constraints_on_the_Dark_Energy_Equation_of_State %})*, Masterarbeit, [PDF](https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/theoretical-physics/msc/dissertations/2010/Florian-Borchers-Dissertation.pdf) (in englischer Sprache), 2010. Siehe auch die [Folien der Präsentation]({{ GITHUB_REPOSITORY }}/assets/PDFs/10s10b21ekb25n.pdf).
+
+- *[Das Vier-Mäuse-Problem]({% post_url 2026-06-20-Vier_Maeuse_Problem %})*, eine Übungsaufgabe zu gewöhnlichen Differentialgleichungen. 
